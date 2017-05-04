@@ -2,7 +2,7 @@
  * Author      : Srinivas Chandupatla
  * Date        : 24.03.2008
  * File        : endianess.c
- * Compile     : gcc -Wall endianess -o endianess
+ * Compile     : gcc -Wall endianess.c -o endianess
  * Execute     : ./endianess
  */
 
